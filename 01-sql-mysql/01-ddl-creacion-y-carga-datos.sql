@@ -1,3 +1,13 @@
+-- ============================================================================
+-- Archivo: 01-ddl-creacion-y-carga-datos.sql
+-- Tema: Lenguaje de Definición de Datos (DDL) y carga inicial (DML)
+-- Descripción: Creación de bases de datos, tablas, tipos de datos, claves 
+--              primarias/foráneas (PRIMARY/FOREIGN KEY) e inserción de registros.
+-- Motor: MySQL
+-- ============================================================================
+
+
+
 CREATE DATABASE lectura;
 USE lectura;
 CREATE TABLE book (

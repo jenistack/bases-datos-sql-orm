@@ -1,0 +1,21 @@
+# Seguridad: Credenciales y variables de entorno
+.env
+*.env
+
+# Caché y compilados de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales y editores
+venv/
+.venv/
+.vscode/
+.idea/
+
+# Bases de datos locales temporales (si las hubiera)
+*.sqlite3
+*.db
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

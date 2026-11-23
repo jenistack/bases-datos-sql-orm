@@ -1,3 +1,13 @@
+-- ============================================================================
+-- Archivo: 02-consultas-y-ejercicios-base.sql
+-- Tema: Consultas fundamentales, filtros, agrupaciones y uniones
+-- Descripción: Extracción de información mediante SELECT, WHERE, ORDER BY, 
+--              funciones de agregación (GROUP BY, HAVING) y consultas multitabla (JOIN).
+-- Motor: MySQL
+-- ============================================================================
+
+
+
 USE lectura;
 
 # Contar el número de libros registrados en la base de datos.

@@ -1,3 +1,13 @@
+-- ============================================================================
+-- Archivo: 04-optimizacion-y-buenas-practicas.sql
+-- Tema: Optimización de rendimiento y estándares profesionales en SQL
+-- Descripción: Creación y uso de índices (INDEX), análisis de consultas y 
+--              aplicación de buenas prácticas para mejorar tiempos de respuesta.
+-- Motor: MySQL
+-- ============================================================================
+
+
+
 USE Sakila;
 #Ejercicio 1 -> Index B-Tree -  Busquedas avanzadas de peliculas por release_year and duration (length)
 #Crear indice compuesto B-Tree (release_year, length)

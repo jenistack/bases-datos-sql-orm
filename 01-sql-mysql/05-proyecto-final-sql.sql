@@ -1,3 +1,14 @@
+-- ============================================================================
+-- Archivo: 05-proyecto-final-sql.sql
+-- Tema: Proyecto Final Integrador de Bases de Datos Relacionales
+-- Descripción: Diseño completo del modelo relacional, carga de datos reales y 
+--              resolución de consultas de negocio combinando JOINs, agregaciones 
+--              y subconsultas.
+-- Motor: MySQL
+-- ============================================================================
+
+
+
 CREATE DATABASE biblioteca;
 USE biblioteca;
 CREATE TABLE libros (

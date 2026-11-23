@@ -1,3 +1,13 @@
+-- ============================================================================
+-- Archivo: 03-subconsultas-y-avanzadas.sql
+-- Tema: Subconsultas (Subqueries) y consultas SQL avanzadas
+-- Descripción: Resolución de problemas complejos mediante consultas anidadas 
+--              en cláusulas SELECT, FROM y WHERE, operadores IN/EXISTS y vistas.
+-- Motor: MySQL
+-- ============================================================================
+
+
+
 USE world;
 #EJERCICIO 1 -> Subconsulta con IN para identificar paises que contienen ciudades con mas de 5 millones de habitantes 
 SELECT 
